@@ -1,1 +1,1 @@
-Hello, World - Walber Santos!
+Hello, World!
